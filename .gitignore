@@ -28,3 +28,6 @@ product.overrides.json
 .tool-versions
 src/vs/workbench/contrib/void/browser/react/out/**
 src/vs/workbench/contrib/void/browser/react/src2/**
+
+# JetBrains IDE 의 프로젝트 로컬 설정. 기계마다 다르다.
+.idea/
